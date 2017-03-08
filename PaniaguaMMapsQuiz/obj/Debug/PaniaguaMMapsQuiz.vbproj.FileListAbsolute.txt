@@ -1,0 +1,20 @@
+G:\co sci 808\PaniaguaMMapsQuiz\PaniaguaMMapsQuiz\bin\Debug\PaniaguaMMapsQuiz.exe.config
+G:\co sci 808\PaniaguaMMapsQuiz\PaniaguaMMapsQuiz\bin\Debug\PaniaguaMMapsQuiz.exe
+G:\co sci 808\PaniaguaMMapsQuiz\PaniaguaMMapsQuiz\bin\Debug\PaniaguaMMapsQuiz.pdb
+G:\co sci 808\PaniaguaMMapsQuiz\PaniaguaMMapsQuiz\bin\Debug\PaniaguaMMapsQuiz.xml
+G:\co sci 808\PaniaguaMMapsQuiz\PaniaguaMMapsQuiz\obj\Debug\PaniaguaMMapsQuiz.frmMapsQuiz.resources
+G:\co sci 808\PaniaguaMMapsQuiz\PaniaguaMMapsQuiz\obj\Debug\PaniaguaMMapsQuiz.Resources.resources
+G:\co sci 808\PaniaguaMMapsQuiz\PaniaguaMMapsQuiz\obj\Debug\PaniaguaMMapsQuiz.vbproj.GenerateResource.Cache
+G:\co sci 808\PaniaguaMMapsQuiz\PaniaguaMMapsQuiz\obj\Debug\PaniaguaMMapsQuiz.exe
+G:\co sci 808\PaniaguaMMapsQuiz\PaniaguaMMapsQuiz\obj\Debug\PaniaguaMMapsQuiz.xml
+G:\co sci 808\PaniaguaMMapsQuiz\PaniaguaMMapsQuiz\obj\Debug\PaniaguaMMapsQuiz.pdb
+G:\co_sci_808\PaniaguaMMapsQuiz\PaniaguaMMapsQuiz\bin\Debug\PaniaguaMMapsQuiz.exe.config
+G:\co_sci_808\PaniaguaMMapsQuiz\PaniaguaMMapsQuiz\obj\Debug\PaniaguaMMapsQuiz.exe
+G:\co_sci_808\PaniaguaMMapsQuiz\PaniaguaMMapsQuiz\obj\Debug\PaniaguaMMapsQuiz.xml
+G:\co_sci_808\PaniaguaMMapsQuiz\PaniaguaMMapsQuiz\obj\Debug\PaniaguaMMapsQuiz.pdb
+G:\co_sci_808\PaniaguaMMapsQuiz\PaniaguaMMapsQuiz\bin\Debug\PaniaguaMMapsQuiz.exe
+G:\co_sci_808\PaniaguaMMapsQuiz\PaniaguaMMapsQuiz\bin\Debug\PaniaguaMMapsQuiz.pdb
+G:\co_sci_808\PaniaguaMMapsQuiz\PaniaguaMMapsQuiz\bin\Debug\PaniaguaMMapsQuiz.xml
+G:\co_sci_808\PaniaguaMMapsQuiz\PaniaguaMMapsQuiz\obj\Debug\PaniaguaMMapsQuiz.frmMapsQuiz.resources
+G:\co_sci_808\PaniaguaMMapsQuiz\PaniaguaMMapsQuiz\obj\Debug\PaniaguaMMapsQuiz.Resources.resources
+G:\co_sci_808\PaniaguaMMapsQuiz\PaniaguaMMapsQuiz\obj\Debug\PaniaguaMMapsQuiz.vbproj.GenerateResource.Cache
